@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushbuSinha29
 - 👀 I’m interested in coding and learning new technologies.
-- 🌱 I’m currently learning frontend devlopment. I have learned HTML, CSS, JS and now started with React.
+- 🌱 I’m currently learning frontend devlopment. I have learned HTML, CSS, JS and now learning ReactJS.
 - 💞️ I’m looking to collaborate on projects where I could use my learning.
 
 
